@@ -1,0 +1,14 @@
+{
+	"sensors": [
+		{
+			"name": "bonsai",
+			"channel": 17,
+			"powerPin": 4
+		},
+		{
+			"name": "tournesol",
+			"channel": 22,
+			"powerPin": 27
+		}
+	]
+}
